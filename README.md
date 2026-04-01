@@ -1,8 +1,8 @@
 # Irish Housing Market Analysis 2010–2021
 
 **Author:** Ramya  
-**LinkedIn:** linkedin.com/in/yourprofile  
-**Email:** your@email.com
+**LinkedIn:** www.linkedin.com/in/ramyacn
+**Email:** ramyacnanjappa@gmail.com
 
 ---
 
